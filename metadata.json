@@ -1,0 +1,8 @@
+{
+  "name": "Remix Smart RFID Attendance \u0026 AI Prediction System",
+  "description": "ESP32 \u0026 RC522 RFID smart attendance tracking with Firebase Realtime Database and Random Forest ML prediction for student attendance patterns, risk classification, and early warnings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
